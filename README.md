@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="165" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">|🎇  HI DEVS  🎇|</h1>
 
 ###
 
-<h1 align="center">||>>>🎇  HI DEVS  🎇<<<||</h1>
+![OVΞRROOT Logo](./OVERROOT-LOGO.png)
 
 ###
 
@@ -12,7 +10,10 @@
 
 ###
 
-<p align="left">👩‍💻Meu nome é Filipe Monteiro👩‍💻<br><br>- 📈 Sou um desenvolvedor freelancer<br>- 🎯 Estou me aprofundando em Java(Spring Boot) e JavaScript(Node.js)<br>-📚 CommonJS, ES Modules<br>- ⚡ Planejo aumentar cada vez mais meus conhecimentos como desenvolvedor</p>
+<p align="left">
+  👩‍💻Meu nome é Filipe Monteiro👩‍💻<br><br>- 📈 Sou um desenvolvedor freelancer<br>- 🎯 Estou me aprofundando em Java(Spring Boot) e JavaScript(Node.js)<br>-📚 CommonJS,
+  ES Modules<br>- ⚡ Planejo aumentar cada vez mais meus conhecimentos como desenvolvedor
+</p>
 
 ###
 
