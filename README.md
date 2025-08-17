@@ -2,14 +2,6 @@
 
 ###
 
-![OVΞRROOT Logo](./OVERROOT-LOGO.png)
-
-###
-
-<h3 align="left"> >> Sobre mim << </h3>
-
-###
-
 <p align="left">
   👩‍💻Meu nome é Filipe Monteiro👩‍💻<br><br>- 📈 Sou um desenvolvedor freelancer<br>- 🎯 Estou me aprofundando em Java(Spring Boot) e JavaScript(Node.js)<br>-📚 CommonJS,
   ES Modules<br>- ⚡ Planejo aumentar cada vez mais meus conhecimentos como desenvolvedor
